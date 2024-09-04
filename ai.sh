@@ -1,1 +1,1 @@
-test
+echo "hello 2"
